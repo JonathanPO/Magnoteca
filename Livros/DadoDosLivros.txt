@@ -1,0 +1,12 @@
+
+Nome do Livro: GOT
+Autor: Autor
+Editora: Editora
+Edição: 1
+Quantidade: 18
+
+Nome do Livro: Reri Potá e a Pedra da Filosofia
+Autor: J.K. R.
+Editora: Estou Rocco
+Edição: 1ª
+Quantidade: 5

@@ -1,0 +1,6 @@
+Nome do Funcionário: Rafael C.
+Numero da Identidade: 111.111.111-11
+Nome do Usuário: Rafael
+Senha: 1234567
+Data de Nascimento: 22/07/1997
+E-mail: qwertyuiopoikjhgf
